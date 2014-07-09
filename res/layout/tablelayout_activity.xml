@@ -7,7 +7,7 @@
         android:id="@+id/tableRow1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:background="#00FF00" >
+        android:background="#FF00FF00" >
 
         <TextView
             android:id="@+id/textView1"
@@ -20,6 +20,7 @@
             android:id="@+id/textView2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_marginLeft="100dp"
             android:text="商品"
             android:textColor="#FFFFFF" />
 
